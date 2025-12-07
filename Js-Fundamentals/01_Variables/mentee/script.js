@@ -6,9 +6,10 @@
 // STEP 1: Create a variable called firstName using let.
 //         Give it a string value with your first name.
 //         Example idea: "Jocelyn"
-
 // STEP 2: Create a variable called age using let.
 //         Give it a number value with your age.
+
+
 
 // STEP 3: Create a variable called favoriteColor using let.
 //         Give it a string value with your favorite color.
